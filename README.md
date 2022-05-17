@@ -1,5 +1,8 @@
 # Todo-list-MongoDB
 
+## description
+todo list app with react, MongoDB
+
 ## create server/.env
 PORT=5500
 DB_CONNECT=<your db connection>
