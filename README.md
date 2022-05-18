@@ -16,3 +16,6 @@ DB_CONNECT=<your db connection>
 - open new terminal
 - cd client
 - npm start
+
+## source
+https://www.youtube.com/watch?v=Lr9WUkeYSA8

@@ -19,7 +19,7 @@ router.post("/api/item", async (req, res) => {
     const newItem = new todoItemsModel(req.body);
     //-- save item in database
     const saveItem = await newItem.save();
-    res.status(200).json(saveItem);
+    res.status(200).json(saveItem); // 回傳儲存的物件
     // res.status(200).json("Item Added successfully"); // for check
   } catch (err) {
     res.json(err);
