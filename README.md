@@ -3,7 +3,7 @@
 ## description
 todo list app with react, MongoDB
 
-## create server/.env
+## create ./server/.env file
 PORT=5500<br>
 DB_CONNECT=<your db connection>
 
