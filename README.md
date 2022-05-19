@@ -18,4 +18,4 @@ DB_CONNECT=<your db connection>
 - npm start
 
 ## source
-https://www.youtube.com/watch?v=Lr9WUkeYSA8
+https://www.youtube.com/watch?v=U4syTDaAKWg
